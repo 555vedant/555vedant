@@ -1,6 +1,7 @@
 - 👋 Hi, I’m vedant
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning CSE
+- 🌱 I’m currently pursuing  btech(CSE).
+  
 
 
 
