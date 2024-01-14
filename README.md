@@ -1,5 +1,5 @@
 - 👋 Hi, I’m vedant
-- 👀 I love coding
+- 👀 I'm enthusiastic about coding.
 - 🌱 I’m currently pursuing btech in CSE.
   
 
