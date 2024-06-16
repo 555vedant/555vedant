@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about coding and currently pursuing
 
 ## About Me
 - 💻 Enthusiastic about coding and problem-solving.
-- 🎓 Currently studying B.Tech in Computer Science & Engineering.
+- 🎓 CSE Undergrad.
 - 🌱 Always learning and exploring new technologies.
 
 ## What I Do
