@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about coding and currently pursuing
 - 🌱 Always learning and exploring new technologies.
 
 ## What I Do
-- 🚀 Develop cool projects and share them here.
+- 🚀 Develop projects and share them here.
 - 📚 Learn new technology , skills and solve complex problems.
 - 🌐 Contribute to open-source projects.
 
