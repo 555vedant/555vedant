@@ -12,10 +12,6 @@ Welcome to my GitHub profile! I'm passionate about coding and currently pursuing
 - 📚 Learn new technology, skills and solve complex problems.
 - 🌐 Contribute to open-source projects.
 
-![Holopin Badge 1](https://www.holopin.io/hacktoberfest2024/userbadge/cm24rcwef92710cl7c0lwig35)
-![Holopin Badge 2](https://www.holopin.io/hacktoberfest2024/userbadge/cm2211eb9314230cl341hk1on0)
-![Holopin Badge 3](https://www.holopin.io/hacktoberfest2024/userbadge/cm24rcwef92710cl7c0lwig35)
-
 ## Get in Touch
 Feel free to connect with me! Let's collaborate on some exciting projects. 😊
 
