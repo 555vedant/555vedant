@@ -12,10 +12,7 @@ Welcome to my GitHub profile! I'm passionate about coding and currently pursuing
 - 📚 **Continuous Learning**: I enjoy acquiring new skills and solving intricate problems across various domains.
 - 🌐 **Open Source Contributor**: Actively contributing to open-source projects, aiming to make a positive impact on the community.
 
-  <h1 align="center">Hi 👋, I'm Vedant Kasar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
