@@ -2,11 +2,6 @@
 
 Welcome to my GitHub profile! I'm passionate about coding and currently pursuing a Bachelor's in Computer Science & Engineering. 🌟
 
-## About Me
-- 💻 **Coding Enthusiast**: I love tackling coding challenges and finding elegant solutions to complex problems.
-- 🎓 **CSE Undergrad**: I’m currently honing my skills in software development and data structures.
-- 🌱 **Lifelong Learner**: Always exploring new technologies and methodologies to enhance my skill set.
-
 ## What I Do
 - 🚀 **Project Development**: I develop projects that showcase my skills and share them here for others to learn from.
 - 📚 **Continuous Learning**: I enjoy acquiring new skills and solving intricate problems across various domains.
