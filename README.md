@@ -1,13 +1,3 @@
-# Hey there! 👋 I'm Vedant
-
-Welcome to my GitHub profile! I'm passionate about coding and currently pursuing a Bachelor's in Computer Science & Engineering. 🌟
-
-## What I Do
-- 🚀 **Project Development**: I develop projects that showcase my skills and share them here for others to learn from.
-- 📚 **Continuous Learning**: I enjoy acquiring new skills and solving intricate problems across various domains.
-- 🌐 **Open Source Contributor**: Actively contributing to open-source projects, aiming to make a positive impact on the community.
-
----
 <p align="left">
 </p>
 
