@@ -5,6 +5,6 @@
 
 
 ## Get in Touch
-Feel free to connect with me! Let's collaborate on some exciting projects or simply share knowledge. 😊
+
 
 [![Gmail](https://img.shields.io/badge/Email-vedantvvk5%40gmail.com-red)](mailto:vedantvvk5@gmail.com)
